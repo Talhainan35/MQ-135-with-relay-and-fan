@@ -1,0 +1,18 @@
+Analog çıkış pini = Analog output pin
+Dijital çıkış pini = Digital output pin
+Eşik değeri = Threshold value
+Ölçülen PPM değeri = Measured(Calculated) PPM value
+Hava kirliliği = Air pollution
+Seri port başlat = Initialize serial port
+PPM değerini Analog pinden oku = Read PPM value from Analog output pin
+Eşik değerinin aşılıp aşılmadığını oku = Read if threshold value is exceeded or not exceeded
+Hava kirliliği miktarını yaz = Write the amount of air pollution
+Kirlilik eşik değerinin altında = Pollution below threshold
+Kirlilik eşik değerinin üstünde = Pollution above threshold
+Yarım saniye bekle = Wait half a second
+
+
+Role = Relay 
+Esik = Threshold
+
+
